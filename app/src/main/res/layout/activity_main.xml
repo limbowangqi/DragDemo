@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+   >
+
+    <com.limbo.drag.DragImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="#fff"
+        android:id="@+id/drag_image_view"/>
+
+</LinearLayout>
