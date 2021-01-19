@@ -1,7 +1,8 @@
 # DragDemo
 ### 一个随意拖拽的自定义View
 
-可能速度有点快，大概就是手指拖动移动图片的位置。
+可能速度有点快，大概就是图片随着手指的移动进行拖拽。
+完成度比较低，主要是一些自定义控件知识，有需求的同学可以下载下来进行改造。
 
 ![image]( https://github.com/limbowangqi/DragDemo/blob/master/dragDemo.gif)
 
